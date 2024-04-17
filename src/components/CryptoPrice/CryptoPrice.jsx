@@ -4,7 +4,7 @@ const CryptoPrice = () => {
         <div className="flex justify-center pt-20 gap-6 pb-10">
             <div className="bg-white p-5 rounded-lg">
                 <div className="flex gap-12 pb-3 items-center">
-                    <img src="../../../public/bitcoin.png" alt="#" />
+                    <img src="https://i.postimg.cc/J0bZQWrg/bitcoin.png" alt="#" />
                     <div className="flex items-center text-[14px] gap-2  font-medium">
                         <p className="text-[#5322E5] px-2 bg-[#EFECFE] rounded">Buy</p>
                         <p className="text-[#00994C] px-2 bg-[#E6FAEC] rounded">Trade</p>
@@ -18,7 +18,7 @@ const CryptoPrice = () => {
             
             <div className="bg-white p-5 rounded-lg">
                 <div className="flex gap-12 pb-3 items-center">
-                    <img src="../../../public/etherium.png" alt="#" />
+                    <img src="https://i.postimg.cc/kGtf3ZnF/etherium.png" alt="#" />
                     <div className="flex items-center text-[14px] gap-2  font-medium">
                         <p className="text-[#5322E5] px-2 bg-[#EFECFE] rounded">Buy</p>
                         <p className="text-[#00994C] px-2 bg-[#E6FAEC] rounded">Trade</p>
@@ -31,7 +31,7 @@ const CryptoPrice = () => {
             </div>
             <div className="bg-white p-5 rounded-lg">
                 <div className="flex gap-12 pb-3 items-center">
-                    <img src="../../../public/steller.png" alt="#" />
+                    <img src="https://i.postimg.cc/DwtGRZSD/steller.png" alt="#" />
                     <div className="flex items-center text-[14px] gap-2  font-medium">
                         <p className="text-[#5322E5] px-2 bg-[#EFECFE] rounded">Buy</p>
                         <p className="text-[#00994C] px-2 bg-[#E6FAEC] rounded">Trade</p>
@@ -44,7 +44,7 @@ const CryptoPrice = () => {
             </div>
             <div className="bg-white p-5 rounded-lg">
                 <div className="flex gap-12 pb-3 items-center">
-                    <img src="../../../public/solana.png" alt="#" />
+                    <img src="https://i.postimg.cc/VsB3601q/solana.png" alt="#" />
                     <div className="flex items-center text-[14px] gap-2  font-medium">
                         <p className="text-[#5322E5] px-2 bg-[#EFECFE] rounded">Buy</p>
                         <p className="text-[#00994C] px-2 bg-[#E6FAEC] rounded">Trade</p>
